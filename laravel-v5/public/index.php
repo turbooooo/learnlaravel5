@@ -99,4 +99,17 @@ $kernel->terminate($request, $response);
 |		vi.联系(associate的过去式和过去分词); 联盟; 陪伴
 |		n.合伙人; 伴侣，同志; 联想物，附随物; 会员集体
 |		adj.（用于联合企业的名称）联合的; 有关联的; 联合的
+| Contract:
+|		英[ˈkɒntrækt]美[ˈkɑ:ntrækt]
+|		n.合同; 契约; 协议
+| capture:
+|		英[ˈkæptʃə(r)]美[ˈkæptʃɚ]
+|		vt.俘获; 夺取; 夺得; 引起（注意、想像、兴趣）
+|		n.捕获; 占领; 捕获物; [计算机]捕捉
+|
+| terminate:
+|		英[ˈtɜ:mɪneɪt]美[ˈtɜ:rmɪneɪt]
+|		vt.& vi.结束; 使终结; 解雇; 到达终点站
+|		adj.结束的
+|
 */
